@@ -28,5 +28,15 @@
    </ul>
   </li>
   
+  <li>
+    <a href="#" class="submenu-toggle">
+      <i class="glyphicon glyphicon-user"></i>
+      <span>Fotos de Eventos</span>
+    </a>
+    <ul class="nav submenu">
+      <li><a href="todaslasfotos.php">Todas las Fotos</a> </li>
+      
+   </ul>
+  </li>
     
 </ul>

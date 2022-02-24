@@ -18,7 +18,7 @@
 
     function buscarIgualdadClientes($evento,&$resp_total, $clientes)
     {
-		$credentials = new Aws\Credentials\Credentials('AKIARRUCF2L34P5QVSXP', 'fGQOwG02PnR9lgapw5Y8WnbNrOK4qVs3K2bfBsL7');
+		$credentials = new Aws\Credentials\Credentials('AKIASPINTMAE22BGQSNO', 'FV+8eTWxDxGJzRZmVCXIrdRgq+UxjA6Kyoi0nUj0');
 		$rekognitionClient = RekognitionClient::factory(array(
 		    		'region'	=> "us-east-1",
 		    		'version'	=> 'latest',
